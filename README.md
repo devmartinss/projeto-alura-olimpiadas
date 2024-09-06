@@ -33,7 +33,11 @@ Se você é um desenvolvedor e quer dar uma força para deixar essa aplicação 
 
 **Matheus Martins**
 
-**https://github.com/devmartinss/projeto-alura-olimpiadas**
+**Repositório:**
+https://github.com/devmartinss/projeto-alura-olimpiadas
+
+**Deploy do site via Vercel:**
+https://projeto-alura-olimpiadas.vercel.app/
 
 **06/09/2024**
 
